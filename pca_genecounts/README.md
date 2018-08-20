@@ -14,10 +14,10 @@ Note that positions of arguments are important here.
 with header indicating sample name.
 ```
 # Example:
-# Gene  L1  L2  F1  F2
-# Gene1 343 524 10  22
-# Gene2 24  41  314 438
-# ...
+Gene  L1  L2  F1  F2
+Gene1 343 524 10  22
+Gene2 24  41  314 438
+...
 ```
 
 *output*: a PCA bi-plot (filename indicated as argument, see above). optionally gene names can be shown as labels
